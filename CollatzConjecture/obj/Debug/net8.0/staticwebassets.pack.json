@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\RiderProjects\\CollatzConjecture\\CollatzConjecture\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CollatzConjecture.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CollatzConjecture.props",
+      "PackagePath": "build\\CollatzConjecture.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CollatzConjecture.props",
+      "PackagePath": "buildMultiTargeting\\CollatzConjecture.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CollatzConjecture.props",
+      "PackagePath": "buildTransitive\\CollatzConjecture.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

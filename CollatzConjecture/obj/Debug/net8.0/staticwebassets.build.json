@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "XBKGD1/ILw6xNXt8KT9x5xRlH69CVLyDlMzlsLh7ohg=",
+  "Source": "CollatzConjecture",
+  "BasePath": "_content/CollatzConjecture",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CollatzConjecture\\wwwroot",
+      "Source": "CollatzConjecture",
+      "ContentRoot": "C:\\Users\\User\\RiderProjects\\CollatzConjecture\\CollatzConjecture\\wwwroot\\",
+      "BasePath": "_content/CollatzConjecture",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\RiderProjects\\CollatzConjecture\\CollatzConjecture\\wwwroot\\index.html",
+      "SourceId": "CollatzConjecture",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\RiderProjects\\CollatzConjecture\\CollatzConjecture\\wwwroot\\",
+      "BasePath": "_content/CollatzConjecture",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
