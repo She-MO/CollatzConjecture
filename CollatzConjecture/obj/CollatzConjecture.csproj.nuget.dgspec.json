@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\RiderProjects\\CollatzConjecture\\CollatzConjecture\\CollatzConjecture.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\CollatzConjecture\\CollatzConjecture\\CollatzConjecture.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\RiderProjects\\CollatzConjecture\\CollatzConjecture\\CollatzConjecture.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\CollatzConjecture\\CollatzConjecture\\CollatzConjecture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\RiderProjects\\CollatzConjecture\\CollatzConjecture\\CollatzConjecture.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\CollatzConjecture\\CollatzConjecture\\CollatzConjecture.csproj",
         "projectName": "CollatzConjecture",
-        "projectPath": "C:\\Users\\User\\RiderProjects\\CollatzConjecture\\CollatzConjecture\\CollatzConjecture.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\CollatzConjecture\\CollatzConjecture\\CollatzConjecture.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\RiderProjects\\CollatzConjecture\\CollatzConjecture\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\CollatzConjecture\\CollatzConjecture\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

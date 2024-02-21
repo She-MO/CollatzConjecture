@@ -6,7 +6,7 @@ app.UseDefaultFiles();
 app.UseStaticFiles();
 app.MapGet("/graph/{number}", (long? number) =>
 {
-    if (number is null or 0)
+    if (number is null or <= 0)
     {
         return Results.NotFound();
     }
