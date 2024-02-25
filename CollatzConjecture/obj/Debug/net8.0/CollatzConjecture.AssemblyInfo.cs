@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CollatzConjecture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bf60221c9d9b73d5f40cf35a961b8bf14789625")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69b347abd963870cfd658bab3d77731780c8727b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CollatzConjecture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CollatzConjecture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

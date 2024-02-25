@@ -1,8 +1,16 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\User\\RiderProjects\\CollatzConjecture\\CollatzConjecture\\wwwroot\\index.html",
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\CollatzConjecture\\CollatzConjecture\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\CollatzConjecture\\CollatzConjecture\\wwwroot\\script.js",
+      "PackagePath": "staticwebassets\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Documents\\GitHub\\CollatzConjecture\\CollatzConjecture\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CollatzConjecture.Microsoft.AspNetCore.StaticWebAssets.props",
